@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, PHP, MySQL**
 
-- 📫 How to reach me **uzairtariq6949**
+- 📫 How to reach me **uzairtariq6949@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
